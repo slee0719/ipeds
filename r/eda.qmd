@@ -32,7 +32,12 @@ rm(list = ls())
 # Introduction
 
 The notebook is to execute exploratory data analysis for IPEDS data.
+
+
 Data source: [IPEDS](https://nces.ed.gov/ipeds/use-the-data)
+
+
+Find the R code [here](https://github.com/slee0719/ipeds)
 
 # Preparations 
 
